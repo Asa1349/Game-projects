@@ -1,0 +1,4 @@
+Jumper = False
+Snake = False
+Gallows = False
+Invaders = False
