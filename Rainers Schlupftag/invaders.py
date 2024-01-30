@@ -1,9 +1,9 @@
 # ------------------------------------------------
-# Dateiname: achievements.py
+# Dateiname: invaders.py
 # Version: 1.0
-# Funktion: Erfolgsübersicht des Spiele-Geschenkes für Rainer
+# Funktion: Zeigt einen Text und Button, der den Erfolg erfüllt und zum Menü zurückkehrt
 # Autor: AP
-# Datum der letzten Änderung: 23.01.2024
+# Datum der letzten Änderung: 24.01.2024
 # ------------------------------------------------
 
 # Modules used --------------------------------------------------------------------------------------------------------
