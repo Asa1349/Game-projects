@@ -7,3 +7,10 @@ As a birthday present, I put together a package of my first games made with Pyga
 When a certain score is reached in the games, the individual achievements are unlocked and can be viewed in the achievements menu. 
 Each game has its own small menu for starting and displaying the score. 
 I created the project in 5 days and unfortunately the last game was not finished in time, so only a text screen is displayed. 
+
+
+# Important
+Please note that some of the graphics, music and fonts are licensed and may not be used commercially or without attribution. 
+So if you like any of them, please have a look here: 
+<br> https://www.dafont.com/de/
+<br> https://opengameart.org/
