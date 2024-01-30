@@ -1,9 +1,9 @@
 # ------------------------------------------------
-# Dateiname: Galgenmännchen.py
+# Dateiname: hangman.py
 # Version: 1.1
 # Funktion: Galgenmännchen-Spiel
 # Autor: AP
-# Datum der letzten Änderung: 18.01.2024
+# Datum der letzten Änderung: 24.01.2024
 # ------------------------------------------------
 
 # Modules used --------------------------------------------------------------------------------------------
