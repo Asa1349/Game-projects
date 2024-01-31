@@ -55,13 +55,6 @@ clock = pygame.time.Clock()
 
 screen.fill('Orange')
 
-menu = True
-erfolge = False
-jumper = False
-snake = False
-gallows = False
-invaders = False
-
 
 # import Fonts ---------------------------------------------------------------------------------------------------------
 
