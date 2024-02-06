@@ -70,19 +70,8 @@ text = [font_text.render(r'\   The developer ran out of time', True, (244,244,24
 button_click_r = button_click.get_rect(center = (400,700))
 
 
-
-# write achievement status ----------------------------------------------------------------------------------------------
-
-with open(achievement_file, 'r') as file:
-    content = file.read()
-search_pattern = f'{achievement_key} = False'
-if search_pattern in content:
-    content = content.replace(search_pattern, f'{achievement_key} = True')
-with open(achievement_file, 'w') as file:
-    file.write(content)
-
-
 # draw elements---------------------------------------------------------------------------------------------------------
+
 distance = 0
 for line in text:
     distance += 22
