@@ -8,6 +8,10 @@ When a certain score is reached in the games, the individual achievements are un
 Each game has its own small menu for starting and displaying the score. 
 I created the project in 5 days and unfortunately the last game was not finished in time, so only a text screen is displayed. 
 
+## Dapper Dasher
+<br> Training GameDev
+My first experience mit C++. another Runner Game with an implemented score where the Player has to jump over several hazards.
+
 
 # Important
 Please note that some of the graphics, music and fonts are licensed and may not be used commercially or without attribution. 
