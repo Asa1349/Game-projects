@@ -10,7 +10,7 @@ I created the project in 5 days and unfortunately the last game was not finished
 
 ## Dapper Dasher
 Training GameDev
-<br> My first experience mit C++. another Runner Game with an implemented score where the Player has to jump over several hazards.
+<br> My first experience with C++. Just another Runner Game with an implemented score where the Player has to jump over several hazards.
 
 
 # Important
